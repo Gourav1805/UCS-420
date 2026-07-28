@@ -39,3 +39,7 @@ print(list(range(-10,-20,-3)))
 num= int(input("give a number"))
 for i in range(1,num):
     print(7*i)
+
+
+for i in range(1,11):
+    print("5 *",i,"=",5*i)
