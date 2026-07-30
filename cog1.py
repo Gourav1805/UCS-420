@@ -9,6 +9,7 @@ print("Madaan")
 print("Garv" + " "+ "madaan")
 print("Garv" + " " , b)
 
+
 # using for loop
 for i in range(1,11):
     print(i)
